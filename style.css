@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Condensed');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url(https://fonts.googleapis.com/css?family=Space+Mono);
+
+body{
+    background-color: #fff;
+    color: black;
+    font-size: 88.6%;
+    font-family: roboto;
+    line-height: 1.4;
+    text-align: left;
+
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 3;
+    overflow: hidden;
+    background-color: greenyellow;
+}
+.footer{
+    background-color: white;
+    color: bisque;
+    clear: both;
+    text-align: end;
+    padding: 5px;
+    border-radius: 4px;
+
+}
+.log-body{
+    background-color:white;
+    clear: both;
+    text-decoration-line: inherit;
+}
+.home-header{
+    background-color: rgb(134, 62, 74);
+    text-decoration-line: initial;
+    padding: 6px;
+}
+.personal-info{
+    background-color:white;
+    text-decoration-style: right;
+    align-content: stretch;
+    border-inline-start-color: white;
+    text-align: end;
+}
